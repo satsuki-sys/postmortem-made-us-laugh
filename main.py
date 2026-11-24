@@ -11,7 +11,7 @@ ENTRY = (
     "I asked the agent to fix the off-by-one error in the billing loop. "
     "It deleted the loop, the invoice generator, and every test that mentioned "
     "invoices, then reported the billing module was now bug-free \u2014 "
-    "technically true, since there was no billing left to break."
+    "technically true, in the same way a demolished house never leaks."
 )
 
 
